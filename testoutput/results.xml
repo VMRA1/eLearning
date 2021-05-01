@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="60.952">
+<testcase classname="Login feature" name="Login as Admin" time="60.655">
+<system-out><![CDATA[Given I am on Login page of "http://elearningm1.upskills.in/"...............passed
+When I enter the username as "elearner".....................................passed
+And I enter password as "epass@123Delete"...................................passed
+And I click on Login button.................................................passed
+And I click on Compose option...............................................passed
+And I enter the Send to address "nav".......................................passed
+And I click the name "naveen naveen (naveen)"...............................passed
+And I enter the Subject "Testing"...........................................passed
+And I enter the Message "Hello".............................................passed
+And I click on Send Message button..........................................passed
+Then I see a message "The message has been sent to".........................passed
+]]></system-out>
+</testcase>
+</testsuite>
